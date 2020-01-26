@@ -1,1 +1,1 @@
-IIR_ASM.S - assembler code for iir biquad filters - fixex point, fractional arithmetic.
+iir_asm.S - assembler code for iir biquad filters - fixex point, fractional arithmetic.
